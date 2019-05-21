@@ -1,3 +1,8 @@
 .DS_Store
 .ipynb_checkpoints
 .ipynb_checkpoints/*
+
+./examples/__pycache__/*
+
+./examples/__init__.py
+./examples/config.py
