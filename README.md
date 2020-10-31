@@ -17,4 +17,5 @@
 3. [Periodic Review / Order Quantity](https://github.com/joshuamschultz/business-analysis/blob/master/Simulating%20Periodic%20Review%20Order%20Quantity.ipynb)
 #### Optimizations
 1. [Optimizing parameters for Continuous Review / Reorder Point using Genetic Algorithm](https://github.com/joshuamschultz/business-analysis/blob/master/Optimize%20Order%20Quantity%20and%20Reorder%20Point%20Using%20GA.ipynb)
-2. [Optimizing parameters for Periodic Review / Order Quantity using Genetic Algorithm](https://github.com/joshuamschultz/business-analysis/blob/master/Optimizing%20Periodic%20Review%20Order%20Quantity%20using%20GA.ipynb)
+2. [Optimizing parameters for Continuous Review / Reorder Point using Nelder-Mead]9https://github.com/joshuamschultz/business-analysis/blob/master/Optimize%20Order%20Quantity%20and%20Reorder%20Point%20Using%20Nelder%20Mead.ipynb)
+3. [Optimizing parameters for Periodic Review / Order Quantity using Genetic Algorithm](https://github.com/joshuamschultz/business-analysis/blob/master/Optimizing%20Periodic%20Review%20Order%20Quantity%20using%20GA.ipynb)
